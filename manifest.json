@@ -1,0 +1,8 @@
+{
+  "name": "Whatsapp No Add",
+  "short_name": "Whatsapp No Add",
+  "display": "standalone",
+  "start_url": "/index.hmtl",
+  "theme_color": "#313131",
+  "background_color": "#313131"
+}
