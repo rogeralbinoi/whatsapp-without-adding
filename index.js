@@ -19,7 +19,6 @@ var onSubmit = e => {
   $link.target = '_blank'
   $link.href = WHATSAPP_LINK.replace('+', '').replace('-', '').replace(/\s/g, '')
   $link.click()
-  alert('Preguiçoso!')
 }
 
 $sendForm.addEventListener('submit', onSubmit)
