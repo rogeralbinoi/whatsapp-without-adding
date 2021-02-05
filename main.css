@@ -33,6 +33,7 @@ button {
   font-size: 1em;
   font-weight: bold;
   cursor: pointer;
+  height: 4em;
 }
 
 footer {
