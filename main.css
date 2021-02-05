@@ -1,12 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 1.7em;
+}
+
 input, textarea, button {
-  margin: 1em;
+  margin: 1em 0;
   width: 100%;
   box-sizing: border-box;
   border-radius: 4px;
 }
 
 form {
-  width: 400px;
+  max-width: 400px;
   margin: 0 auto;
 }
 
