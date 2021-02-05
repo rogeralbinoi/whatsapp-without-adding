@@ -14,6 +14,7 @@ input, textarea {
   border: 2px solid #fff;
   padding: .3em .3em;
   font-size: 1.4em;
+  font-family: 'Titillium Web', sans-serif;
 }
 
 button {
@@ -31,4 +32,5 @@ footer {
 
 body {
   background-color: #273443;
+  font-family: 'Titillium Web', sans-serif;
 }
