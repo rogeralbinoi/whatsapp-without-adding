@@ -34,3 +34,12 @@ body {
   background-color: #273443;
   font-family: 'Titillium Web', sans-serif;
 }
+
+header {
+    text-align: center;
+    background: #fff;
+    padding: 1em;
+    background: #1ebea5;
+    font-weight: bold;
+    margin-bottom: 3em;
+}
